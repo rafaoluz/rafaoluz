@@ -6,7 +6,9 @@
 
 ### Conhecimentos em Sistema Operacional
 
-#### Linux #### Windows 
+Linux                Windows
+                       
+
 
 ### Estudando 
 
