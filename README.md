@@ -4,11 +4,7 @@
 ### Buscando novas oportunidades na área de Desenvolvedor . 
 
  - [ ] Experiência de seis meses como Suporte Técnico. 
-
-### Conhecimentos em Sistema Operacional
- - Linux
- - Windows 
- 
+   
 ### Estudando atualmente
 
 > HTML5       
