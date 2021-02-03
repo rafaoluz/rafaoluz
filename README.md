@@ -6,7 +6,11 @@
 
 ### Conhecimentos em Sistema Operacional
 
-Linux                Windows
+<![endif]-->
+
+**Linux Windows**
+
+<![if !vml]>![Intranet UÓR](file:///C:\Users\Rafael\AppData\Local\Temp\msohtmlclip1\01\clip_image002.jpg)<![endif]>  <![if !vml]>![ícone Windows Livre de Social Media & Logos](file:///C:\Users\Rafael\AppData\Local\Temp\msohtmlclip1\01\clip_image004.jpg)<![endif]>
                        
 
 
