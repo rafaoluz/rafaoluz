@@ -6,10 +6,15 @@
 #### Experiência de seis meses como Suporte Técnico. 
 
 ### Conhecimentos em Sistema Operacional
-  
-	**>Linux**           	**> Windows**    
-  
-  
+ - Linux
+ - Windows [enter image description here](https://icon-icons.com/pt/icone/Windows/102509)
+ 
 ### Estudando 
 
-#### HTML        CSS     JAVASCRIPT 
+    
+
+> HTML5       
+
+>  CSS3
+
+> JAVASCRIPT 
