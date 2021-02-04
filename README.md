@@ -7,7 +7,7 @@
 
 ## Buscando novas oportunidades na área de Desenvolvimento. 
 
-### Estudando atualmente HTML Web Developer na Digital innovation One.  
+### Estudando atualmente HTML Web Developer na Digital Innovation One.  
 
 > HTML5       
 
