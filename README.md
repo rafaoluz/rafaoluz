@@ -5,7 +5,7 @@
 #### 🎓 Formação Técnico em Redes de Computadores - Senai Santos Dumont 
 - [ ] Experiência de seis meses como Suporte Técnico. 
 
-## Buscando novas oportunidades na área de Desenvolvimento. 
+## Buscando novas oportunidades na área de Desenvolvimento Front-End. 
 
 ### Estudando atualmente HTML Web Developer na Digital Innovation One.  
 
