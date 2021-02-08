@@ -7,11 +7,7 @@
 
 ## Buscando novas oportunidades na área de Desenvolvimento Front-End. 
 
-### Estudando atualmente HTML Web Developer na Digital Innovation One.  
+### Foi concluído o bootcamp "HTML Web Developer" na Digital Innovation One.  
+> HTML5   > CSS3  >JAVASCRIPT 
 
-> HTML5       
-
->  CSS3
-
-> JAVASCRIPT 
 
