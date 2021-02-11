@@ -5,9 +5,9 @@
 #### 🎓 Formação Técnico em Redes de Computadores - Senai Santos Dumont 
 - [ ] Experiência de seis meses como Suporte Técnico. 
 
-## Buscando novas oportunidades na área de Desenvolvimento Front-End. 
+## Buscando novas oportunidades na área de Desenvolvimento Front-End.
+## Estou estudando HTML5 | CSS | BOOTSTRAP | FLEXBOX  | JAVASCRIPT 
 
-### Foi concluído o bootcamp "HTML Web Developer" na Digital Innovation One.  
-> HTML5   > CSS3  >JAVASCRIPT 
+
 
 
