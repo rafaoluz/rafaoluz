@@ -6,7 +6,7 @@
 - [ ] Experiência de seis meses como Suporte Técnico. 
 
 ## Buscando novas oportunidades na área de Desenvolvimento Front-End.
-## Estou estudando HTML5 | CSS | JAVASCRIPT 
+## Estou estudando na plataforma Origamid HTML5 | CSS | JAVASCRIPT ES6
 
 
 
