@@ -1,6 +1,6 @@
 ### Olá, bem vindo ao meu Perfil 👋
 
-### Me chamo Rafael, tenho 21 anos. Atualmente estou cursando a faculdade de Ciência da Computação na Universidade Paulista – 4 Semestre. 
+### Me chamo Rafael, tenho 21 anos. Atualmente estou cursando a faculdade de Ciência da Computação na Universidade Paulista – 5 Semestre. 
 
 #### 🎓 Formação Técnico em Redes de Computadores - Senai Santos Dumont 
 - [ ] Experiência de seis meses como Suporte Técnico. 
