@@ -12,6 +12,9 @@
 <img align="left" alt="Linux" width="32px" src="https://img.icons8.com/color/48/000000/linux.png"/>
 <img align="left" alt="Windows 10" width="32px" src="https://img.icons8.com/color/48/000000/windows-10.png"/>
   
+<br>
+<br>
+ 
 <h3> Linguagens de Programação </h3>
 <img align="left" alt="C#" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
