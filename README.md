@@ -5,7 +5,6 @@
 <div>
   <a href="https://github.com/rafaoluz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaoluz&layout=compact&langs_count=7&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaoluz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
 
 
@@ -35,6 +34,7 @@
 <h3> Tecnologias: </h3>
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Material UI" width="32px" src="https://img.icons8.com/color/48/000000/material-ui.png"/>
 
   
 
