@@ -8,14 +8,14 @@
 </div>
 
 
-<h3> Sistemas Operacionais </h3>
+<h3> Sistemas Operacionais: </h3>
 <img align="left" alt="Linux" width="32px" src="https://img.icons8.com/color/48/000000/linux.png"/>
 <img align="left" alt="Windows 10" width="32px" src="https://img.icons8.com/color/48/000000/windows-10.png"/>
   
 <br>
 <br>
  
-<h3> Linguagens de Programação </h3>
+<h3> Linguagens de Programação: </h3>
 <img align="left" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="left" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
