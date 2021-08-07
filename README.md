@@ -1,6 +1,6 @@
 ## Olá eu sou Rafa Luz 
 
-## Estudante de Ciência da Computação 5 Semestre - Universidade Paulista. 
+### Estudante de Ciência da Computação 5 Semestre - Universidade Paulista. 
 
 <div>
   <a href="https://github.com/rafaoluz">
