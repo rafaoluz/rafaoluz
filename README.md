@@ -1,4 +1,4 @@
-## Olá eu sou Rafa Luz 
+## Olá eu sou Rafa Luz bem-vindo ao meu perfil !
 
 ### Estudante de Ciência da Computação 5 Semestre - Universidade Paulista. 
 
