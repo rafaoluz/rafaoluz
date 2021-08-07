@@ -3,7 +3,7 @@
 ## Estudante de Ciência da Computação 5 Semestre - Universidade Paulista. 
 
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/rafaoluz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
