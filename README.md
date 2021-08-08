@@ -41,6 +41,9 @@
    <br>
   
  <div>
+   
+   <br>
+   <br>
   
  <div> 
   <a href="mailto:rafaoluz7@gmail.com"><img align="left" alt="Gmail" width="32px" src="https://img.icons8.com/plasticine/100/000000/gmail.png"/</a>
