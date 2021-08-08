@@ -1,7 +1,6 @@
 ## Olá eu sou Rafa Luz bem-vindo ao meu perfil !
 
 ### Estudante de Ciência da Computação 5 Semestre - Universidade Paulista. 
-
 <div>
   <a href="https://github.com/rafaoluz">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafaoluz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
