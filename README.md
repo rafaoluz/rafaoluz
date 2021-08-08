@@ -2,6 +2,8 @@
 
 ### Estudante de Ciência da Computação 5 Semestre - Universidade Paulista. Atualmente realizando um estágio na área de Desenvolvimento e Suporte de Sistemas na Avbras.
 
+<br>
+
 <div>
   <a href="https://github.com/rafaoluz">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rafaoluz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
