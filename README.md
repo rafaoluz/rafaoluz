@@ -43,9 +43,8 @@
  <div>
   
  <div> 
-  <a href = "mailto:rafaoluz7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaoluz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href="mailto:rafaoluz7@gmail.com"><img align="left" alt="Gmail" width="32px" src="https://img.icons8.com/plasticine/100/000000/gmail.png"/</a>
+  <a href="https://linkedin.com/in/rafaoluz"><img align="left" alt="Linkedin" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>   
 </div>
 
   
