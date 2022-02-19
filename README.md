@@ -25,7 +25,7 @@
    <img align="left" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img alt="VBA" src="https://img.icons8.com/nolan/64/vb.png" width="40" height="40" />
-  <img alt="VBA" src="https://img.icons8.com/nolan/64/vb.png" width="40" height="40" />
+ 
  
   
    <br>
