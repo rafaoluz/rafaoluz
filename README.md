@@ -1,6 +1,6 @@
 ## Olá eu sou Rafa Luz bem-vindo ao meu perfil !
 
-### Estudante de Ciência da Computação 6 Semestre - Universidade Paulista. Atualmente realizando um estágio de Analista de Sistemas na Avibras.
+### Estudante de Ciência da Computação 6 Semestre - Universidade Paulista. Atualmente estou na Avibras como Analista de Sistemas
 
 <br>
 
