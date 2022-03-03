@@ -56,7 +56,7 @@
    <h3>Contato: <h3>
   <a href="mailto:rafaoluz7@gmail.com"><img align="left" alt="Gmail" width="32px" src="https://img.icons8.com/plasticine/100/000000/gmail.png"/</a>
   <a href="https://linkedin.com/in/rafaoluz"><img align="left" alt="Linkedin" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="mailto:rafaoluz@hotmail.com"><img align="left" alt="Hotmail" width="32px" src="https://img.icons8.com/plasticine/100/000000/hotmail.png"/</a>  
+  <a href="mailto:rafaoluz@hotmail.com"><img align="left" alt="Hotmail" width="32px" src="https://img.icons8.com/plasticine/100/000000/outlook.png"/</a>  
     
 </div>
 
