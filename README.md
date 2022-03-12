@@ -44,6 +44,7 @@
   <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   <img align="left" alt="Material UI" width="36px" src="https://img.icons8.com/color/48/000000/material-ui.png"/>
   <img align="left" alt="Adobe XD" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg"/>
+  <img align="left" alt="Adobe XD" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/git/git.svg"/>
   
 
    <br>
