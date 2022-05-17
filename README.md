@@ -4,14 +4,6 @@
 
 <br>
 
-<div>
-  <a href="https://github.com/rafaoluz">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rafaoluz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaoluz&layout=compact&langs_count=7&theme=algolia"/>
-</div>
-  
-<div>
-
   <h3> Operational systems: </h3>
   <img align="left" alt="Linux" width="32px" src="https://img.icons8.com/color/48/000000/linux.png"/>
   <img align="left" alt="Windows 10" width="32px" src="https://img.icons8.com/color/48/000000/windows-10.png"/>
@@ -22,7 +14,8 @@
   <h3> Programming languages: </h3>
   <img align="left" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="left" alt="Rafa-JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="left" alt="Rafa-CSS" height="40" width="40" src="<img align="left" alt="Rafa-CSS" height="40" width="40"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">">
+  <img align="left" alt="Rafa-JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="left" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img alt="VBA" src="https://img.icons8.com/nolan/64/vb.png" width="40" height="40" />
