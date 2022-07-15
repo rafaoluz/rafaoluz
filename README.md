@@ -17,9 +17,8 @@
   <img align="left" alt="Rafa-Bootstrap" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="left" alt="Rafa-JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="left" alt="Rafa-JQuery" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
-  <img align="left" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="left" alt="java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="left" alt="VBA" width="40" height="40" src="https://img.icons8.com/nolan/64/vb.png"/>
+  <img align="left" alt="Rafa-java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="left" alt="Rafa-VBA" width="40" height="40" src="https://img.icons8.com/nolan/64/vb.png"/>
  
    <br>
    <br>
