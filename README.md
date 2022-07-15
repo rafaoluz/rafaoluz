@@ -1,6 +1,6 @@
 ## Hello I'm Rafa Luz welcome to my profile!
 
-### Computer Science Student 6 Semester - Universidade Paulista. I am currently at Avibras as a Systems Analyst.
+### Computer Science Student 7 Semester - Universidade Paulista. I am currently at Avibras as a Systems Analyst.
 
 <br>
 
