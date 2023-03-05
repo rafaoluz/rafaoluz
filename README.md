@@ -1,6 +1,6 @@
 ## Hello I'm Rafa Luz welcome to my profile!
 
-### Computer Science Student 7 Semester - Universidade Paulista. I am currently at Loxam Degraus as a Systems Analyst.
+### Computer Science Student 8 Semester - Universidade Paulista. I am currently at Loxam Degraus as a Systems Analyst.
 
 <br>
 
@@ -47,7 +47,6 @@
    
   <h3>Contact: <h3>
   <a href="mailto:rafaoluz@hotmail.com"><img width="32px" src="https://img.icons8.com/color/48/000000/ms-outlook.png"/></a>     
-  <a href="mailto:rafaoluz7@gmail.com"><img align="left" alt="Gmail" width="32px" src="https://img.icons8.com/plasticine/100/000000/gmail.png"/></a>
   <a href="https://linkedin.com/in/rafaoluz"><img align="left" alt="Linkedin" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
  
 </div>
