@@ -76,4 +76,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rafaoluz&show_icons=true" />
 </picture>
 
-<img src="https://camo.githubusercontent.com" alt="rafaoluz" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaoluz&amp;hide=html&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;">
