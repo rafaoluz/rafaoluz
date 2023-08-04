@@ -69,7 +69,3 @@
   <a href="https://linkedin.com/in/rafaoluz"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  
 </div>
-
-https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green
-  
-
