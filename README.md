@@ -68,7 +68,7 @@
  
 </div>
 
-<img width="32px" src="https://github-readme-stats.vercel.app/api/top-langs/?username={rafaoluz}&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={rafaoluz}&theme=blue-green"/>
 
   
 
