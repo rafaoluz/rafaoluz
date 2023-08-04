@@ -19,7 +19,6 @@
    <img align="left" alt="Node-JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="left" alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img align="left" alt="Rafa-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="left" alt="Rafa-VBA" width="40" height="40" src="https://img.icons8.com/nolan/64/vb.png"/>
  
    <br>
    <br>
@@ -51,12 +50,9 @@
    <br>
    <br>
 
-  <h3> Technologies: </h3>
-  <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-  <img align="left" alt="Material UI" width="36px" src="https://img.icons8.com/color/48/000000/material-ui.png"/>
-  <img align="left" alt="Adobe XD" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg"/>
-  <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <h3>IDE:</h3>
+  <img align="left" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img align="left" alt="VS-Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   
 
    <br>
