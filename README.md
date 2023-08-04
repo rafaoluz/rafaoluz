@@ -24,8 +24,9 @@
    <br>
    <br>
 
-  <h3> Analytics</h3>
+  <h3> Analytics:</h3>
   <img align="left" alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img align="left" alt="Excel" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 
    <br>
    <br>
@@ -36,6 +37,12 @@
 
   <br>
   <br>
+
+  <h3> Cloud:</h3>
+  <img align="left" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+   <br>
+   <br>
 
   <h3> Technologies: </h3>
   <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
