@@ -77,5 +77,5 @@
 </picture>
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaoluz)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaoluz)](https://github.com/rafaoluz/github-readme-stats)
 
