@@ -59,6 +59,9 @@
    <br>
   
  <div>
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"/>
+
   
  <div> 
    
@@ -67,8 +70,5 @@
   <a href="https://linkedin.com/in/rafaoluz"><img align="left" alt="Linkedin" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
  
 </div>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"/>
-
   
 
