@@ -64,8 +64,8 @@
  <div> 
    
   <h3>Contact: <h3>
-  <a href="mailto:rafaoluz@hotmail.com"><img width="32px" src="https://img.icons8.com/color/48/000000/ms-outlook.png"/></a>     
-  <a href="https://linkedin.com/in/rafaoluz"><img align="left" alt="Linkedin" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="mailto:rafaoluz@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>     
+  <a href="https://linkedin.com/in/rafaoluz"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  
 </div>
   
