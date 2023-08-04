@@ -26,17 +26,24 @@
 
   <h3> Analytics:</h3>
   <img align="left" alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-  <img align="left" alt="Excel" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img align="left" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
    <br>
    <br>
 
   <h3> Database: </h3>
   <img align="left" alt="SQL Server" width="36px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
-  <img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+  <img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
   <br>
   <br>
+
+  <h3>Design:</h3>
+  <img align="left" alt="XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
+  <img align="left" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+   <br>
+   <br>
 
   <h3> Cloud:</h3>
   <img align="left" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
