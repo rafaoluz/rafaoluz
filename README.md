@@ -31,7 +31,7 @@
    <br>
 
   <h3> Database: </h3>
-  <img align="left" alt="SQL Server" width="36px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
+  <img align="left" alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   <img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
   <br>
@@ -46,6 +46,7 @@
 
   <h3> Cloud:</h3>
   <img align="left" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img align="left" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
    <br>
    <br>
