@@ -2,8 +2,6 @@
 
 ### Bachelor in Computer Science from UNIP - Universidade Paulista. Studying post graduation in Software Engineering at PUC Minas. I am currently at Loxam Degraus as a systems development analyst.
 
-<br>
-
   <h3> Operational systems: </h3>
   <img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img align="left" alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
