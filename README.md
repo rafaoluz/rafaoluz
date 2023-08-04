@@ -1,6 +1,7 @@
 ## Hello I'm Rafa Luz welcome to my profile!
 
-### Computer Science Student 8 Semester - Universidade Paulista. I am currently at Loxam Degraus as a Systems Analyst.
+### Bachelor in Computer Science from UNIP - Universidade Paulista.
+Studying post graduation in Software Engineering at PUC Minas. I am currently at Loxam Degraus as a systems development analyst.
 
 <br>
 
