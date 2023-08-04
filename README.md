@@ -75,11 +75,3 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=rafaoluz&show_icons=true" />
 </picture>
-
-<a href="https://github.com/rafaoluz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaoluz&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/rafaoluz/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaoluz&repo=convoychat" />
-</a>
-
