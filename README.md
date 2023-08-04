@@ -24,6 +24,12 @@
    <br>
    <br>
 
+  <h3> Analytics</h3>
+  <img align="left" alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+
+   <br>
+   <br>
+
   <h3> Database: </h3>
   <img align="left" alt="SQL Server" width="36px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
   <img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
