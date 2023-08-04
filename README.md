@@ -76,6 +76,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rafaoluz&show_icons=true" />
 </picture>
 
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaoluz)](https://github.com/rafaoluz/github-readme-stats)
-
+<img src="https://camo.githubusercontent.com/181808fc1f3637e967c1d053e00b10e6a67dc731d433b7ba46025e9c124c7b5b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e69636f6c61737065726569726126686964653d68746d6c266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874" alt="rafaoluz" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaoluz&amp;hide=html&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;">
