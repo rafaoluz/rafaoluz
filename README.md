@@ -66,7 +66,7 @@
 
 <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=rafaoluz&show_icons=true&theme=dracula"
+      srcset="https://github-readme-stats.vercel.app/api?username=rafaoluz&show_icons=true&theme=gruvbox"
       media="(prefers-color-scheme: dark)"
     />
     <source
