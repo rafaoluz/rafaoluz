@@ -2,7 +2,7 @@
 
 ### Bachelor in Computer Science from UNIP - Universidade Paulista. Studying post graduation in Software Engineering at PUC Minas. I am currently at Loxam Degraus as a systems development analyst.
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaoluz)](https://github.com/rafaoluz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaoluz&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
   <h3> Operational systems: </h3>
