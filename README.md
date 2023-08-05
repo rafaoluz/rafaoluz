@@ -70,7 +70,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaoluz&theme=tokyonight" />
 </a>
 <a href="https://github.com/rafaoluz/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaoluz&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaoluz&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
 
