@@ -73,7 +73,8 @@
     srcset="https://github-readme-stats.vercel.app/api?username=rafaoluz&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaoluz&layout=compact)
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaoluz&layout=compact)
 
