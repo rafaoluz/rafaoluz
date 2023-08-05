@@ -66,7 +66,7 @@
 
 <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=rafaoluz&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=rafaoluz&show_icons=true&theme=radical"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -75,4 +75,4 @@
     />
      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaoluz&layout=compact&langs_count=8&card_width=320" />
 </picture>
-<img src="https://camo.githubusercontent.com/e1cb21ce8d49079586fdfc1548a19991fc6c542a828d330665a0e97f02d1ffab/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d61746865757363616c64617331266c61796f75743d636f6d70616374267468656d653d7472616e73706172656e74" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaoluz&amp;layout=compact&amp;theme=transparent" style="max-width: 100%;">
+<img 
