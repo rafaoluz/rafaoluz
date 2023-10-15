@@ -1,6 +1,6 @@
 ## Hello I'm Rafa Luz welcome to my profile!👋
 
-### Bachelor in Computer Science from UNIP - Universidade Paulista. Studying post graduation in Software Engineering at PUC Minas. I am currently at Loxam Degraus as a systems development analyst.
+### Bachelor in Computer Science from UNIP - Universidade Paulista. Studying post graduation in Software Engineering at PUC Minas. I am currently at Loxam Brasil as a systems development analyst.
 
   <h3> Operational systems: </h3>
   <img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
