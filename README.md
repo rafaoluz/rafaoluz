@@ -26,6 +26,8 @@
      <img align="left" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
      
   <br>
+  <br>
+  <br>
 
   <h3> Database: </h3>
   <img align="left" alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
